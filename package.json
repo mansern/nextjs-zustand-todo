@@ -1,5 +1,6 @@
 {
-  "name": "todo-next-zustandp",
+  "name": "todo-next-zustand",
+  "author": "Muhammad Anser Naseer",
   "version": "0.1.0",
   "private": true,
   "scripts": {
